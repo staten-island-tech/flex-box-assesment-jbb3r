@@ -284,11 +284,11 @@ html {
 }
 
 .about:hover {
-  color: #8f63c9;
+  color: rgba(255, 107, 181, 0.651);
 }
 
 .contact:hover {
-  color: #8f63c9;
+  color: #ffd9e7;
 }
 
 body {
